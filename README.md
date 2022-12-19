@@ -1,6 +1,4 @@
-# cypress.js
-
-Примеры автотестов на Cypress
+### Примеры автотестов на Cypress
 
 Инструкция запуска:
 1. Установить node.js: https://nodejs.org/en/download/
